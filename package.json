@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "json": "^11.0.0",
+    "nodemon": "^2.0.16",
+    "start": "^5.1.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "note-takr",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mikekuney/Note-Takr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mikekuney/Note-Takr/issues"
+  },
+  "homepage": "https://github.com/Mikekuney/Note-Takr#readme"
+}
